@@ -5,3 +5,4 @@ Trying a second edit from RStudio.
 Give it another go.
 
 Now let's edit from GitHub!
+This is going well! 
